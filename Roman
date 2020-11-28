@@ -78,7 +78,7 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
       ♥️♥️ WELLCOME ┼๏ EVERY ONE  ♥️♥️
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mHassam Zaib
-\033[1;96mInstagram \033[1;93m: \033[1: itx_muskan_yr
+\033[1;96mInstagram \033[1;93m: \033[1: hassam_zaib-70
 \033[1;96mFacebook  \033[1;93m: \033[1: Hassam.Zaib.96
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Hassoo786/Roman
 \033[1;91m======================================="""
@@ -118,7 +118,7 @@ print  """\033[1;91m
                      ▇▇▇▇◣▇◢▇▇▇▇
                    WhatsApp : 03124788959
 \033[1;96mAuthor  \033[1;93m: \033[1;92mHassam Zaib
-\033[1;96mInstagram \033[1;93m: \033[1;92mitx_muskan_yr
+\033[1;96mInstagram \033[1;93m: \033[1;92mhassam_zaib_70
 \033[1;96mFacebook  \033[1;93m: \033[1;92m Hassam.zaib.96
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Hassoo786/Roman
 \033[1;91m======================================="""
